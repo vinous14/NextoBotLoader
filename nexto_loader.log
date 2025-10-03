@@ -1,0 +1,81 @@
+2025-10-03 19:46:33,907 - INFO - Loaded bot configuration: Nexto
+2025-10-03 19:46:33,908 - INFO - Nexto Bot Loader initialized at: c:\nexto
+2025-10-03 19:46:33,908 - INFO - ==================================================
+2025-10-03 19:46:33,908 - INFO - NEXTO BOT LOADER STARTING
+2025-10-03 19:46:33,908 - INFO - ==================================================
+2025-10-03 19:46:33,908 - INFO - Checking dependencies...
+2025-10-03 19:46:33,910 - ERROR - RLBot not found. Please install requirements: pip install -r requirements.txt
+2025-10-03 19:46:33,910 - ERROR - Dependency check failed. Please install requirements.
+2025-10-03 20:18:01,706 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:18:01,706 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:18:01,707 - INFO - ==================================================
+2025-10-03 20:18:01,707 - INFO - NEXTO BOT LOADER STARTING
+2025-10-03 20:18:01,707 - INFO - ==================================================
+2025-10-03 20:18:01,708 - INFO - Checking dependencies...
+2025-10-03 20:18:01,741 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:18:13,528 - INFO - All core dependencies found
+2025-10-03 20:18:13,528 - INFO - Waiting for Rocket League to fully load...
+2025-10-03 20:18:18,529 - INFO - Starting bot injection process...
+2025-10-03 20:18:18,531 - INFO - Created RLBot config: C:\nexto\nexto_rlbot_config.json
+2025-10-03 20:18:18,739 - ERROR - Failed to inject bot: No module named 'imp'
+2025-10-03 20:18:18,739 - ERROR - Bot injection failed!
+2025-10-03 20:18:51,979 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:18:51,979 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:18:51,980 - INFO - Checking dependencies...
+2025-10-03 20:18:51,980 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:18:51,980 - INFO - All core dependencies found
+2025-10-03 20:30:27,074 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:30:27,075 - INFO - Nexto Bot Loader initialized at: c:\nexto
+2025-10-03 20:30:27,075 - INFO - ==================================================
+2025-10-03 20:30:27,075 - INFO - NEXTO BOT LOADER STARTING
+2025-10-03 20:30:27,076 - INFO - ==================================================
+2025-10-03 20:30:27,076 - INFO - Checking dependencies...
+2025-10-03 20:30:27,079 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:30:30,988 - INFO - All core dependencies found
+2025-10-03 20:30:31,463 - INFO - Waiting for Rocket League to start...
+2025-10-03 20:33:22,315 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:33:22,316 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:33:22,316 - INFO - Checking dependencies...
+2025-10-03 20:33:22,318 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:33:24,885 - INFO - All core dependencies found
+2025-10-03 20:35:34,097 - ERROR - Timeout waiting for Rocket League to start
+2025-10-03 20:35:34,098 - ERROR - Failed to detect Rocket League. Please start the game first.
+2025-10-03 20:35:55,394 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:35:55,395 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:35:55,395 - INFO - Checking dependencies...
+2025-10-03 20:35:55,396 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:35:55,396 - INFO - All core dependencies found
+2025-10-03 20:40:52,470 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:40:52,471 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:40:52,471 - INFO - ==================================================
+2025-10-03 20:40:52,471 - INFO - NEXTO BOT LOADER STARTING (ONLINE MODE)
+2025-10-03 20:40:52,471 - INFO - ==================================================
+2025-10-03 20:40:52,490 - INFO - Checking dependencies...
+2025-10-03 20:40:52,493 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:40:54,893 - INFO - All core dependencies found
+2025-10-03 20:40:54,893 - INFO - Waiting for Rocket League to fully load...
+2025-10-03 20:40:59,894 - INFO - Starting online bot injection process...
+2025-10-03 20:40:59,970 - ERROR - Failed to inject bot for online play: No module named 'imp'
+2025-10-03 20:41:00,050 - ERROR - Bot injection failed!
+2025-10-03 20:50:44,971 - INFO - Loaded bot configuration: Nexto
+2025-10-03 20:50:44,972 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 20:50:44,972 - INFO - ==================================================
+2025-10-03 20:50:44,972 - INFO - NEXTO BOT LOADER STARTING (ONLINE MODE)
+2025-10-03 20:50:44,972 - INFO - ==================================================
+2025-10-03 20:50:44,972 - INFO - Online Mode: Bot will attach to existing online matches
+2025-10-03 20:50:44,973 - INFO - Note: Only works with custom/private matches that allow bots
+2025-10-03 20:50:44,973 - INFO - Checking dependencies...
+2025-10-03 20:50:44,975 - INFO - RLBot version 1.68.0 found
+2025-10-03 20:50:47,859 - INFO - All core dependencies found
+2025-10-03 20:50:47,860 - INFO - Waiting for Rocket League to fully load...
+2025-10-03 20:50:52,860 - INFO - Starting online bot injection process...
+2025-10-03 21:08:08,162 - INFO - Loaded bot configuration: Nexto
+2025-10-03 21:08:08,162 - INFO - Nexto Bot Loader initialized at: c:\nexto
+2025-10-03 21:08:08,163 - INFO - Checking dependencies...
+2025-10-03 21:08:08,163 - INFO - RLBot version 1.68.0 found
+2025-10-03 21:08:08,163 - INFO - All core dependencies found
+2025-10-03 21:08:16,336 - INFO - Loaded bot configuration: Nexto
+2025-10-03 21:08:16,336 - INFO - Nexto Bot Loader initialized at: C:\nexto
+2025-10-03 21:08:16,337 - INFO - Checking dependencies...
+2025-10-03 21:08:16,340 - INFO - RLBot version 1.68.0 found
+2025-10-03 21:08:18,740 - INFO - All core dependencies found

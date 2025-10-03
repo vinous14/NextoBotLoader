@@ -1,0 +1,26 @@
+{
+  "bot_configurations": [
+    {
+      "name": "Nexto",
+      "team": 0,
+      "python_file": "C:\\nexto\\bot.py",
+      "config_file": "C:\\nexto\\bot.cfg",
+      "logo_file": "C:\\nexto\\nexto_logo.png",
+      "requirements_file": "C:\\nexto\\requirements.txt",
+      "maximum_tick_rate_preference": 120
+    }
+  ],
+  "launcher_configuration": {
+    "launcher_car_id": 0,
+    "launcher_team": 0,
+    "launcher_primary_color": 0,
+    "launcher_secondary_color": 0,
+    "auto_save_replay": false,
+    "enable_rendering": false,
+    "enable_state_setting": false,
+    "auto_start_bots": true,
+    "look_for_custom_maps": false,
+    "match_attach_timeout": 30.0,
+    "enable_match_attachment": true
+  }
+}
